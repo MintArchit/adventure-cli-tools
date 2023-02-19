@@ -1,3 +1,6 @@
 [submodule "up-cli"]
 	path = up-cli
 	url = https://github.com/mintarchit/up-cli
+[submodule "skyx"]
+	path = skyx
+	url = https://github.com/mintarchit/skyx
